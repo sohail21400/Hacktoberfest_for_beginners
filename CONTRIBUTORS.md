@@ -7,3 +7,6 @@
 #### Name: [Sruthy M L](https://github.com/sru-thy)
 - Place: Kerala, India
 - Bio: Student
+#### Name: [Sohail21400](https://github.com/sohail21400)
+- Place: Kerala, India
+- Bio: Student
